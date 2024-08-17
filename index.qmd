@@ -1,5 +1,5 @@
 ---
-title: "Junior Suleiman Mustapha"
+title: "Suleiman Mustapha"
 listing:
   contents: posts
   sort: false

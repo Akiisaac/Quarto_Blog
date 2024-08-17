@@ -1,6 +1,6 @@
 ---
 title: "Unravelling the Secrets of Cabbage Aphid Behaviour: Insights from Recent Research"
-author: "Junior Suleiman Mustapha"
+author: "Suleiman Mustapha"
 image: thumbnail.jpg
 date: "2024-08-06"
 filter-ui: true
