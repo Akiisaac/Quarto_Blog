@@ -2,17 +2,18 @@
 title: "Suleiman Mustapha"
 image: profile.jpg
 about:
+  image-title: "Suleiman Mustapha"
   template: trestles
   links:
-    - icon: envelope
-      text: Email
-      href: "mailto:suleiman.mustapha@rothamsted.ac.uk"
     - icon: twitter
       text: Twitter
       href: https://x.com/suleimanmusty78?lang=en
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/suleiman-mustapha-81317a15b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    - icon: envelope
+      text: Email
+      href: "mailto:suleiman.mustapha@rothamsted.ac.uk"
 ---
 
 I have a broad interested in the chemical interactions that shape the relationships between plants and their herbivores, as well as the complex dynamics within herbivore communities and their interactions with higher trophic levels. My research sits at the crossroads of chemical ecology, integrated pest management (IPM) and plant-invertebrate interactions.

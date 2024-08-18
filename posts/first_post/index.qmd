@@ -4,6 +4,8 @@ author: "Suleiman Mustapha"
 image: thumbnail.jpg
 date: "2024-08-06"
 filter-ui: true
+sidebar:
+  contents: auto
 categories: [article]
 ---
 
